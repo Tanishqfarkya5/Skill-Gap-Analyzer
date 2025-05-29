@@ -122,6 +122,14 @@ def analyze_skill_gap(student_skills, role_skills):
     match_score = compute_similarity(student_skills, role_skills)
     return matched_skills, missing_skills, round(match_score, 2)
 
+hide_github_style = """
+    <style>
+    .css-164nlkn.egzxvld1 {display: none;}
+    </style>
+"""
+st.markdown(hide_github_style, unsafe_allow_html=True)
+
+
 st.title("Skill Gap Analyzer")
 uploaded_file = st.file_uploader("Upload your resume (PDF only)", type=["pdf"])
 role = st.selectbox("Select your target job role", list(job_role_profiles.keys()))
