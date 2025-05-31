@@ -39,7 +39,6 @@
 
 ## 📸 Screenshots
 
-> Add these images inside a `screenshots/` folder
 
 - **Upload Resume & Select Role**  
   ![Upload Screenshot](screenshots/upload.png)
