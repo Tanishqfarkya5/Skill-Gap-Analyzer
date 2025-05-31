@@ -42,22 +42,12 @@
 > Add these images inside a `screenshots/` folder
 
 - **Upload Resume & Select Role**  
-  `screenshots/upload.png`
+  ![Upload Screenshot](screenshots/upload.png)
+
 
 - **Skill Gap Results**  
-  `screenshots/results.png`
+  ![Results Screenshot](screenshots/results.png)
 
 - **Course Recommendations**  
-  `screenshots/courses.png`
+  ![Courses Screenshot](screenshots/courses.png)
 
-Use this Markdown to embed them:
-
-```markdown
-### Upload Resume
-![Upload Screenshot](screenshots/upload.png)
-
-### Skill Gap Results
-![Results Screenshot](screenshots/results.png)
-
-### Course Recommendations
-![Courses Screenshot](screenshots/courses.png)
