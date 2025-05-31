@@ -36,16 +36,6 @@
 - NumPy
 
 ---
-## Run Locally
-
-```bash
-git clone https://github.com/Tanishqfarkya5/skill-gap.git
-cd skill-gap
-pip install -r requirements.txt
-streamlit run skill_gap_analyzer_.py
-'''
-
----
 ## 📸 Screenshots
 
 
@@ -58,4 +48,14 @@ streamlit run skill_gap_analyzer_.py
 
 - **Course Recommendations**  
   ![Courses Screenshot](screenshots/courses.png)
+
+---
+## Run Locally
+
+```bash
+git clone https://github.com/Tanishqfarkya5/skill-gap.git
+cd skill-gap
+pip install -r requirements.txt
+streamlit run skill_gap_analyzer_.py
+
 
