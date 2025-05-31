@@ -39,15 +39,16 @@
 
 ## 📸 Screenshots
 
-![image](https://github.com/user-attachments/assets/14ac7ba5-2526-4ec1-b19d-3048ac9c5a8f)
-
+> Add these images inside a `screenshots/` folder
 
 - **Upload Resume & Select Role**  
-  `![image](https://github.com/user-attachments/assets/227d8219-8e44-4cea-a6e2-63a5382e1bbf)
+  `screenshots/upload.png`
 
+- **Skill Gap Results**  
+  `screenshots/results.png`
 
-- **Skill Gap Results & Course Recommendations**  
-  `![image](https://github.com/user-attachments/assets/17c70c93-48bd-416c-bac2-aca2cdd6e35d)
+- **Course Recommendations**  
+  `screenshots/courses.png`
 
 Use this Markdown to embed them:
 
